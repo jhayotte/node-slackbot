@@ -1,0 +1,12 @@
+{
+  "name": "node-slackbot",
+  "version": "1.0.0",
+  "description": "A slack bot written in NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "slackbots": "^1.0.2"
+  },
+  "devDependencies": {},
+  "author": "julien.hayotte@gmail.com",
+  "license": "MIT"
+}
